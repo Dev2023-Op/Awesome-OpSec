@@ -6,6 +6,12 @@ a list of operational security resources and tools
 - [identity generation](#identity-generation)
 - [hiding data](#hiding-data)
 
+## Self audit/OSINT
+
+- [OSINT framework](https://osintframework.com) - directory of osint tools
+- [WhatsMyName](https://whatsmyname.app) - username search
+- [pimeyes](https://pimeyes.com/) - reverse face search
+
 ## Identity Generation
 
 - [anonaddy](https://addy.io) - a free fake email generator that forwards emails to your personal email

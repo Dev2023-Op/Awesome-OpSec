@@ -35,4 +35,5 @@ a list of operational security resources and tools
 
 - [OSINT framework](https://osintframework.com) - directory of osint tools
 - [WhatsMyName](https://whatsmyname.app) - username search
+- [sherlock](https://github.com/sherlock-project/sherlock) - cli username search
 - [pimeyes](https://pimeyes.com/) - reverse face search

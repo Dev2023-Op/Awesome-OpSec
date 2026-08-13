@@ -5,6 +5,7 @@ a list of operational security resources and tools
 ## Contents
 - [identity generation](#identity-generation)
 - [hiding data](#hiding-data)
+- [account strengthening](#account-strengthening)
 - [self audit & osint](#self-audit)
 
 ## Identity Generation
@@ -23,6 +24,12 @@ a list of operational security resources and tools
 ### Steganography
 - [steghide](https://steghide.com/) - cli steganography
 - [Steganography Online](https://stylesuxx.github.io/steganography/) - lsb steganography in your browser
+
+## Account Strengthening
+
+- [secure password generator](https://www.lastpass.com/features/password-generator)
+- [authy](https://www.authy.com/) - two factor authentication
+- [yubico](https://www.yubico.com/) - physical authentication keys
 
 ## Self audit
 

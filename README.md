@@ -8,4 +8,5 @@ a list of operational security resources and tools
 ## Identity Generation
 
 - [anonaddy](https://addy.io) - a free fake email generator that forwards emails to your personal email
+- [fake name generator](https://www.fakenamegenerator.com/) - generates a fake persona
 - [ThisPersonDoesNotExist](https://thispersondoesnotexist.com/) - a face generator

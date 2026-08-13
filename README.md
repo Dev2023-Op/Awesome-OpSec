@@ -5,7 +5,7 @@ a list of operational security resources and tools
 ## Contents
 - [identity generation](#identity-generation)
 - [hiding data](#hiding-data)
-- [self audit & osint](#self-audit-&-osint)
+- [self audit & osint](#self-audit)
 
 ## Identity Generation
 
@@ -24,7 +24,7 @@ a list of operational security resources and tools
 - [steghide](https://steghide.com/) - cli steganography
 - [Steganography Online](https://stylesuxx.github.io/steganography/) - lsb steganography in your browser
 
-## Self audit & OSINT
+## Self audit
 
 - [OSINT framework](https://osintframework.com) - directory of osint tools
 - [WhatsMyName](https://whatsmyname.app) - username search

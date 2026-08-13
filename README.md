@@ -8,6 +8,8 @@ a list of operational security resources and tools
 - [account strengthening](#account-strengthening)
 - [self audit & osint](#self-audit)
 
+<img src="looselipssinkships.jpg"></img>
+
 ## Identity Generation
 
 - [anonaddy](https://addy.io) - a free fake email generator that forwards emails to your personal email

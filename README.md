@@ -1,6 +1,7 @@
 # Awesome-OpSec [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 a list of operational security resources and tools
+<img src="looselipssinkships.jpg"></img>
 
 ## Contents
 - [identity generation](#identity-generation)
@@ -10,8 +11,6 @@ a list of operational security resources and tools
 - [apps](#apps)
 - [vpns and proxies](#vpns-and-proxies)
 - [self audit & osint](#self-audit)
-
-<img src="looselipssinkships.jpg"></img>
 
 ## Identity Generation
 

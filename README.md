@@ -57,6 +57,7 @@ a list of operational security resources and tools
 # VPNs and proxies
 
 - [mullvad](https://mullvad.net) - vpn that doesn’t have a logging policy
+- [spys.one](https://spys.one/) - proxy list
 
 ## Self audit
 

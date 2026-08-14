@@ -6,7 +6,7 @@
   <img src="looselipssinkships.jpg"></img>
 </div>
 <div align="center>
-  ![GitHub License](https://img.shields.io/github/license/Dev2023-Op/Awesome-OpSec)
+  ![GitHub License](https://img.shields.io/github/license/Dev2023-Op/Awesome-OpSec?style=flat-square)
 </div>
 
 

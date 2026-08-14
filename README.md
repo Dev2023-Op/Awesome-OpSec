@@ -46,6 +46,10 @@ a list of operational security resources and tools
 - [tails](https://tails.net) - os that resets when you reboot
 - [graphene os](https://grapheneos.org) - phone os
 
+## apps
+
+- [tor](https://torproject.org) - provides access to encrypted/dark web
+
 ## Self audit
 
 - [OSINT framework](https://osintframework.com) - directory of osint tools

@@ -6,6 +6,7 @@
   <img src="looselipssinkships.jpg"></img>
 </div>
 <div align="center">
+  <a href="https://awesome.re"><img alt="Awesome" src="https://awesome.re/badge-flat.svg"></img></a>
   <img alt="GitHub License" src="https://img.shields.io/github/license/Dev2023-Op/Awesome-OpSec?style=flat-square">
 </div>
 

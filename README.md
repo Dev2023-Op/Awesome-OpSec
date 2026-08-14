@@ -6,6 +6,7 @@ a list of operational security resources and tools
 - [identity generation](#identity-generation)
 - [hiding data](#hiding-data)
 - [account strengthening](#account-strengthening)
+- [oses](#oses)
 - [self audit & osint](#self-audit)
 
 <img src="looselipssinkships.jpg"></img>
@@ -38,6 +39,11 @@ a list of operational security resources and tools
 - [username generator](https://nordpass.com/username-generator/)
 - [authy](https://www.authy.com/) - two factor authentication
 - [yubico](https://www.yubico.com/) - physical authentication keys
+
+## OSes
+
+- [whonix](https://www.whonix.org) - virtualized desktop os
+- [tails](https://tails.net) - os that resets when you reboot
 
 ## Self audit
 

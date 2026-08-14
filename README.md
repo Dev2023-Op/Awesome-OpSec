@@ -7,6 +7,7 @@ a list of operational security resources and tools
 - [hiding data](#hiding-data)
 - [account strengthening](#account-strengthening)
 - [oses](#oses)
+- [apps](#apps)
 - [self audit & osint](#self-audit)
 
 <img src="looselipssinkships.jpg"></img>

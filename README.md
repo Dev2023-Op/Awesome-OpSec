@@ -1,6 +1,6 @@
 # Awesome-OpSec [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 <div align="center">
-  a list of operational security resources and tools
+  a list of operational security resources and tools<br>
   <img src="looselipssinkships.jpg"></img>
 </div>
 

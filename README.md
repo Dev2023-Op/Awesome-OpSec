@@ -30,6 +30,7 @@ a list of operational security resources and tools
 ## Account Strengthening
 
 - [secure password generator](https://www.lastpass.com/features/password-generator)
+- [username generator](https://nordpass.com/username-generator/)
 - [authy](https://www.authy.com/) - two factor authentication
 - [yubico](https://www.yubico.com/) - physical authentication keys
 

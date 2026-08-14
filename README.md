@@ -49,6 +49,8 @@ a list of operational security resources and tools
 ## apps
 
 - [tor](https://torproject.org) - provides access to encrypted/dark web
+- [qTox](https://qtox.github.io) - encrypted messaging
+- [signal](https://signal.org) - encrypted messaging
 
 ## Self audit
 

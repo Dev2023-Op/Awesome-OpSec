@@ -1,7 +1,8 @@
 # Awesome-OpSec [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
-
-a list of operational security resources and tools
-<img src="looselipssinkships.jpg"></img>
+<div align="center">
+  a list of operational security resources and tools
+  <img src="looselipssinkships.jpg"></img>
+</div>
 
 ## Contents
 - [identity generation](#identity-generation)

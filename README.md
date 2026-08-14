@@ -5,8 +5,8 @@
 <div align="center">
   <img src="looselipssinkships.jpg"></img>
 </div>
-<div align="center>
-  <iframe src="https://img.shields.io/github/license/Dev2023-Op/Awesome-OpSec?style=flat-square">
+<div align="center">
+  ![GitHub License](https://img.shields.io/github/license/Dev2023-Op/Awesome-OpSec?style=flat-square)
 </div>
 
 

@@ -8,6 +8,7 @@ a list of operational security resources and tools
 - [account strengthening](#account-strengthening)
 - [oses](#oses)
 - [apps](#apps)
+- [vpns and proxies](#vpns-and-proxies)
 - [self audit & osint](#self-audit)
 
 <img src="looselipssinkships.jpg"></img>
@@ -52,6 +53,10 @@ a list of operational security resources and tools
 - [tor](https://torproject.org) - provides access to encrypted/dark web
 - [qTox](https://qtox.github.io) - encrypted messaging
 - [signal](https://signal.org) - encrypted messaging
+
+# VPNs and proxies
+
+- [mullvad](https://mullvad.net) - vpn that doesn’t have a logging policy
 
 ## Self audit
 

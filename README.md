@@ -5,6 +5,9 @@
 <div align="center">
   <img src="looselipssinkships.jpg"></img>
 </div>
+<div align="center>
+  ![GitHub License](https://img.shields.io/github/license/Dev2023-Op/Awesome-OpSec)
+</div>
 
 
 ## Contents

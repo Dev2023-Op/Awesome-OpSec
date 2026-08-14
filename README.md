@@ -58,6 +58,7 @@ a list of operational security resources and tools
 
 - [mullvad](https://mullvad.net) - vpn that doesn’t have a logging policy
 - [spys.one](https://spys.one/) - proxy list
+- [proxyscrape](https://proxyscrape.com/free-proxy-list) - proxy list
 - [foxyproxy](https://github.com/foxyproxy) - browser extension for proxy switching
 - [proxychains](https://github.com/haad/proxychains) - allows you to use multiple proxies at the same time
 

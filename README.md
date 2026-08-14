@@ -18,10 +18,15 @@ a list of operational security resources and tools
 
 ## Hiding Data
 
+### Encryption
+
+- [cyberchef](https://gchq.github.io/CyberChef/)
+- [fernet](https://github.com/wolfofdalalst/fernet-cipher) - python tool to encrypt and decrypt files
+
 ### Metadata
 
 - [metadata2go](https://www.metadata2go.com/) - metadata tools in your browser
-- [exiftool](https://exiftool.org/) - cli exif data tool
+- [exiftool](https://exiftool.org/) - cli exif data tool that supports passwords
 
 ### Steganography
 - [steghide](https://steghide.com/) - cli steganography

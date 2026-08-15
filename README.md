@@ -61,6 +61,7 @@
 ## apps
 
 - [tor](https://torproject.org) - provides access to encrypted/dark web
+- [librewolf](https://librewolf.net/) - browser designed for privacy
 - [qTox](https://qtox.github.io) - encrypted messaging
 - [signal](https://signal.org) - encrypted messaging
 

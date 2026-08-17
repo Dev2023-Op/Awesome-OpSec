@@ -35,6 +35,7 @@
 
 - [cyberchef](https://gchq.github.io/CyberChef/)
 - [fernet](https://github.com/wolfofdalalst/fernet-cipher) - python tool to encrypt and decrypt files
+- [VeraCrypt](https://veracrypt.io/en/Downloads.html) - file and disk encryption tool
 
 ### Metadata
 

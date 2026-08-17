@@ -65,6 +65,7 @@
 - [qTox](https://qtox.github.io) - encrypted messaging
 - [signal](https://signal.org) - encrypted messaging
 - [KeePassXC](https://keepassxc.org) - fully local password manager
+- [free file sync](https://freefilesync.org) - file transfer between devices
 
 # VPNs and proxies
 

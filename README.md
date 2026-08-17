@@ -72,6 +72,7 @@
 - [proxyscrape](https://proxyscrape.com/free-proxy-list) - proxy list
 - [foxyproxy](https://github.com/foxyproxy) - browser extension for proxy switching
 - [proxychains](https://github.com/haad/proxychains) - allows you to use multiple proxies at the same time
+- [vpngate](https://www.vpngate.net/en/) - vpn list
 
 ## Self audit
 

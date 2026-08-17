@@ -66,6 +66,7 @@
 - [signal](https://signal.org) - encrypted messaging
 - [KeePassXC](https://keepassxc.org) - fully local password manager
 - [free file sync](https://freefilesync.org) - file transfer between devices
+- [VeraCrypt](https://veracrypt.io/en/Downloads.html) - file and disk encryption tool
 
 # VPNs and proxies
 

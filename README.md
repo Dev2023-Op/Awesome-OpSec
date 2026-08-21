@@ -1,4 +1,4 @@
-<h1 align="center">Awesome-OpSec <a href="https://awesome.re"><img alt="Awesome" src="https://awesome.re/badge-flat.svg"></img></a></h1>
+<h1 align="center">awesome opsec<a href="https://awesome.re"><img alt="Awesome" src="https://awesome.re/badge-flat.svg"></img></a></h1>
 <div align="center">
   A curated list of operational security tools and resources.
 </div><br>

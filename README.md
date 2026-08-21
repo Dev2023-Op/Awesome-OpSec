@@ -1,6 +1,6 @@
 <h1 align="center">Awesome-OpSec <a href="https://awesome.re"><img alt="Awesome" src="https://awesome.re/badge-flat.svg"></img></a></h1>
 <div align="center">
-  An awesome list focusing on operational security.
+  A curated list of operational security tools and resources.
 </div><br>
 <div align="center">
   <img src="looselipssinkships.jpg"></img>

@@ -1,4 +1,4 @@
-<h1 align="center">awesome opsec<a href="https://awesome.re"><img alt="Awesome" src="https://awesome.re/badge-flat.svg"></img></a></h1>
+<h1 align="center">Awesome OpSec<a href="https://awesome.re"><img alt="Awesome" src="https://awesome.re/badge-flat.svg"></img></a></h1>
 <div align="center">
   A curated list of operational security tools and resources.
 </div><br>
@@ -49,8 +49,8 @@
 
 ## Account Strengthening
 
-- [secure password generator](https://www.lastpass.com/features/password-generator)
-- [username generator](https://nordpass.com/username-generator/)
+- [secure password generator](https://www.lastpass.com/features/password-generator) - Generates hard to guess passwords.
+- [username generator](https://nordpass.com/username-generator/) - Generates random usernames.
 - [authy](https://www.authy.com/) - Two factor authentication.
 - [yubico](https://www.yubico.com/) - Physical authentication keys.
 

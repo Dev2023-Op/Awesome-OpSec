@@ -17,11 +17,11 @@
 ## Contents
 - [Identity Generation](#identity-generation)
 - [Hiding Data](#hiding-data)
-- [account strengthening](#account-strengthening)
-- [oses](#oses)
-- [apps](#apps)
-- [vpns and proxies](#vpns-and-proxies)
-- [self audit & osint](#self-audit)
+- [Account Strengthening](#account-strengthening)
+- [OSes](#oses)
+- [Apps](#apps)
+- [VPNs and proxies](#vpns-and-proxies)
+- [Self audit](#self-audit)
 
 ## Identity Generation
 
@@ -59,10 +59,10 @@
 - [tails](https://tails.net) - os that resets when you reboot
 - [graphene os](https://grapheneos.org) - phone os
 
-## apps
+## Apps
 
 - [tor](https://torproject.org) - provides access to encrypted/dark web
-- [liber wolf](https://librewolf.net/) - browser designed for privacy
+- [libre wolf](https://librewolf.net/) - browser designed for privacy
 - [qTox](https://qtox.github.io) - encrypted messaging
 - [signal](https://signal.org) - encrypted messaging
 - [KeePassXC](https://keepassxc.org) - fully local password manager

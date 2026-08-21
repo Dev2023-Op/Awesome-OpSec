@@ -1,7 +1,7 @@
 <h1 align="center">Awesome-OpSec <a href="https://awesome.re"><img alt="Awesome" src="https://awesome.re/badge-flat.svg"></img></a></h1>
 <div align="center">
   a list of operational security resources and tools
-</div>
+</div><br>
 <div align="center">
   <img src="looselipssinkships.jpg"></img>
 </div>
@@ -20,7 +20,8 @@
 - [Account Strengthening](#account-strengthening)
 - [OSes](#oses)
 - [Apps](#apps)
-- [VPNs and proxies](#vpns-and-proxies)
+- [VPNs](#vpns)
+- [Proxies](#proxies)
 - [Self audit](#self-audit)
 
 ## Identity Generation

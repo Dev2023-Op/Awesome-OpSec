@@ -66,8 +66,8 @@
 - [libre wolf](https://librewolf.net/) - Browser designed for privacy.
 - [qTox](https://qtox.github.io) - Encrypted messaging.
 - [signal](https://signal.org) - Encrypted messaging.
-- [KeePassXC](https://keepassxc.org) - Fully local password manager.
-- [free file sync](https://freefilesync.org) - File transfer between devices.
+- [Bit warden](https://bitwarden.com/) - Open source password manager
+- [Syncthing](https://syncthing.net/) - Open source file transfer.
 
 ## VPNs
 

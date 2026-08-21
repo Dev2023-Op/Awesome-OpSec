@@ -25,61 +25,61 @@
 
 ## Identity Generation
 
-- [anonaddy](https://addy.io) - a free fake email generator that forwards emails to your personal email
-- [fake name generator](https://www.fakenamegenerator.com/) - generates a fake persona
-- [ThisPersonDoesNotExist](https://thispersondoesnotexist.com/) - a face generator
+- [anonaddy](https://addy.io) - A free fake email generator that forwards emails to your personal email.
+- [fake name generator](https://www.fakenamegenerator.com/) - Generates a fake persona.
+- [ThisPersonDoesNotExist](https://thispersondoesnotexist.com/) - A face generator.
 
 ## Hiding Data
 
 ### Encryption
 
 - [cyberchef](https://gchq.github.io/CyberChef/)
-- [fernet](https://github.com/wolfofdalalst/fernet-cipher) - python tool to encrypt and decrypt files
-- [VeraCrypt](https://veracrypt.io/en/Downloads.html) - file and disk encryption tool
+- [fernet](https://github.com/wolfofdalalst/fernet-cipher) - Python tool to encrypt and decrypt files.
+- [VeraCrypt](https://veracrypt.io/en/Downloads.html) - File and disk encryption tool.
 
 ### Metadata
 
-- [metadata2go](https://www.metadata2go.com/) - metadata tools in your browser
-- [exiftool](https://exiftool.org/) - cli exif data tool that supports passwords
+- [metadata2go](https://www.metadata2go.com/) - Metadata tools in your browser.
+- [exiftool](https://exiftool.org/) - CLI exif data tool that supports passwords.
 
 ### Steganography
-- [steghide](https://steghide.com/) - cli steganography
-- [Steganography Online](https://stylesuxx.github.io/steganography/) - lsb steganography in your browser
+- [steghide](https://steghide.com/) - CLI steganography.
+- [Steganography Online](https://stylesuxx.github.io/steganography/) - LSB steganography in your browser.
 
 ## Account Strengthening
 
 - [secure password generator](https://www.lastpass.com/features/password-generator)
 - [username generator](https://nordpass.com/username-generator/)
-- [authy](https://www.authy.com/) - two factor authentication
-- [yubico](https://www.yubico.com/) - physical authentication keys
+- [authy](https://www.authy.com/) - Two factor authentication.
+- [yubico](https://www.yubico.com/) - Physical authentication keys.
 
 ## OSes
 
-- [whonix](https://www.whonix.org) - virtualized desktop os
-- [tails](https://tails.net) - os that resets when you reboot
-- [graphene os](https://grapheneos.org) - phone os
+- [whonix](https://www.whonix.org) - Virtualized desktop OS.
+- [tails](https://tails.net) - OS that resets when you reboot.
+- [graphene os](https://grapheneos.org) - Phone OS.
 
 ## Apps
 
-- [tor](https://torproject.org) - provides access to encrypted/dark web
-- [libre wolf](https://librewolf.net/) - browser designed for privacy
-- [qTox](https://qtox.github.io) - encrypted messaging
-- [signal](https://signal.org) - encrypted messaging
-- [KeePassXC](https://keepassxc.org) - fully local password manager
-- [free file sync](https://freefilesync.org) - file transfer between devices
+- [tor](https://torproject.org) - Provides access to encrypted/dark web.
+- [libre wolf](https://librewolf.net/) - Browser designed for privacy.
+- [qTox](https://qtox.github.io) - Encrypted messaging.
+- [signal](https://signal.org) - Encrypted messaging.
+- [KeePassXC](https://keepassxc.org) - Fully local password manager.
+- [free file sync](https://freefilesync.org) - File transfer between devices.
 
 # VPNs and proxies
 
-- [mullvad](https://mullvad.net) - vpn that doesn’t have a logging policy
-- [spys.one](https://spys.one/) - proxy list
-- [proxyscrape](https://proxyscrape.com/free-proxy-list) - proxy list
-- [foxyproxy](https://github.com/foxyproxy) - browser extension for proxy switching
-- [proxychains](https://github.com/haad/proxychains) - allows you to use multiple proxies at the same time
-- [vpngate](https://www.vpngate.net/en/) - vpn list
+- [mullvad](https://mullvad.net) - VPN that doesn’t have a logging policy.
+- [spys.one](https://spys.one/) - Proxy list.
+- [proxyscrape](https://proxyscrape.com/free-proxy-list) - Proxy list.
+- [foxyproxy](https://github.com/foxyproxy) - Browser extension for proxy switching.
+- [proxychains](https://github.com/haad/proxychains) - Allows you to use multiple proxies at the same time.
+- [vpngate](https://www.vpngate.net/en/) - VPN list.
 
 ## Self audit
 
-- [OSINT framework](https://osintframework.com) - directory of osint tools
-- [WhatsMyName](https://whatsmyname.app) - username search
-- [sherlock](https://github.com/sherlock-project/sherlock) - cli username search
-- [pimeyes](https://pimeyes.com/) - reverse face search
+- [OSINT framework](https://osintframework.com) - Directory of osint tools.
+- [WhatsMyName](https://whatsmyname.app) - Username search.
+- [sherlock](https://github.com/sherlock-project/sherlock) - CLI username search.
+- [pimeyes](https://pimeyes.com/) - Reverse face search.

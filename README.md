@@ -15,8 +15,8 @@
 
 
 ## Contents
-- [identity generation](#identity-generation)
-- [hiding data](#hiding-data)
+- [Identity Generation](#identity-generation)
+- [Hiding Data](#hiding-data)
 - [account strengthening](#account-strengthening)
 - [oses](#oses)
 - [apps](#apps)

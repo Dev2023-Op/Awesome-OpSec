@@ -69,12 +69,12 @@
 - [KeePassXC](https://keepassxc.org) - Fully local password manager.
 - [free file sync](https://freefilesync.org) - File transfer between devices.
 
-# VPNs
+## VPNs
 
 - [mullvad](https://mullvad.net) - VPN that doesn’t have a logging policy.
 - [vpngate](https://www.vpngate.net/en/) - VPN list.
 
-# Proxies
+## Proxies
 - [spys.one](https://spys.one/) - Proxy list.
 - [proxyscrape](https://proxyscrape.com/free-proxy-list) - Proxy list.
 - [foxyproxy](https://github.com/foxyproxy) - Browser extension for proxy switching.
